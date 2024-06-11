@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/as5git/static/css/main.3bd0773f.css",
+    "main.js": "/as5git/static/js/main.620a9f17.js",
+    "static/js/453.92164278.chunk.js": "/as5git/static/js/453.92164278.chunk.js",
+    "static/media/apple.jpg": "/as5git/static/media/apple.10c1d91069db12bee5ee.jpg",
+    "index.html": "/as5git/index.html",
+    "main.3bd0773f.css.map": "/as5git/static/css/main.3bd0773f.css.map",
+    "main.620a9f17.js.map": "/as5git/static/js/main.620a9f17.js.map",
+    "453.92164278.chunk.js.map": "/as5git/static/js/453.92164278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd0773f.css",
+    "static/js/main.620a9f17.js"
+  ]
+}
